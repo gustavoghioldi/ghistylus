@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setuptools.setup(
     name="ghistylus",
-    version="0.0.1",
+    version="0.0.2",
     author="Gustavo Ghioldi",
     author_email="gustavoghioldi@gmail.com",
     description="Print Stylus",
