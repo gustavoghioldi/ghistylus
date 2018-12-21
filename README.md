@@ -1,4 +1,4 @@
-TypesValidator
+GHI STYLUS
 ==============
 
 Colores posibles:
@@ -9,6 +9,29 @@ Colores posibles:
     FAIL
     BOLD
     UNDERLINE
+    Reset
+    Bright
+    Dim
+    Underscore
+    Blink
+    Reverse
+    Hidden
+    FgBlack
+    FgRed
+    FgGreen
+    FgYellow
+    FgBlue
+    FgMagenta
+    FgCyan
+    FgWhite
+    BgBlack
+    BgRed
+    BgGreen
+    BgYellow
+    BgBlue
+    BgMagenta
+    BgCyan
+    BgWhite
     
 ejemplo:
 ```python
